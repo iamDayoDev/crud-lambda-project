@@ -4,6 +4,7 @@ A beginner-friendly, **ClickOps-first** project that builds a CRUD API backed by
 - **AWS Lambda** (Python)
 - **Amazon API Gateway (REST API)**
 - **Amazon DynamoDB**
+- **Amplify Frontend**
 
 You’ll deploy the infrastructure **manually in the AWS Console**
 
