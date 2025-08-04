@@ -1,4 +1,6 @@
-# 🗄️ Serverless CRUD API with AWS Lambda, API Gateway,DynamoDB & AWS Amplify (Frontend)
+ # 🗄️ Serverless CRUD API with AWS Lambda, API Gateway,DynamoDB & AWS Amplify (Frontend)
+
+ ![alt text](<CRUD-Project Infra.png>)
 
 A beginner-friendly, **ClickOps-first** project that builds a CRUD API backed by DynamoDB using:
 - **AWS Lambda** (Python)
